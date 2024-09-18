@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# IDE files
+.idea/
+
+# TypeScript files
+dist/
+*.tsbuildinfo
+
+# Temporary files
+temp/
+*.tmp
+
+# Coverage directory
+coverage/
